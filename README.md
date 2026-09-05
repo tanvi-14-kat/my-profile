@@ -9,3 +9,6 @@ A simple personal profile website created while learning Git and GitHub.
 - HTML
 - CSS
 - JavaScript
+
+is this a footer
+meow
