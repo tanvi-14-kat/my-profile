@@ -11,7 +11,10 @@ header {
     background-color: #ffffff;
     border-radius: 10px;
 }
-
+#contact {
+    padding: 20px;
+    text-align: center;
+}
 main {
     margin-top: 20px;
     padding: 25px;
